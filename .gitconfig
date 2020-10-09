@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[user]
+	email = abhinavramkumar91@gmail.com
+	name = Abhinav Ramkumar
+# Please adapt and uncomment the following lines:
+#	name = Abhinav Ramkumar
+#	email = abhinavramkumar@Abhinavs-MacBook-Pro.local
+[alias]
+	ci = "commit -m"
+	st = "status"
+	mg = "merge"
+	co = "checkout"
+	nb = "co -b"
+[commit]
+	template = /Users/abhinavramkumar/git_commit_template.txt
